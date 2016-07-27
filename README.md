@@ -1,5 +1,5 @@
-AD7280a SPICommunication
-=========================
+Controlling AD7280a using SPI Communication
+==========================================
 
 This Arduino project can communicate with AD7280a using SPI bus. This uses a modified linux driver.
 The original source of the linux driver is http://wiki.analog.com/resources/tools-software/linux-drivers/iio-adc/ad7280a.
